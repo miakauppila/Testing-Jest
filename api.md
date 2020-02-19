@@ -345,7 +345,7 @@ palauttaa poikkeuksen`'numerolla ei löydy konetta'`
 - asenna jest kehitysriippuvuudeksi
 - tee jestin testikansio
 - täydennä api testiesimerkeillä
-- tess testi.js
+- tee testi.js
 - tee kirjasto.js toteutusta varten (halutessa luokka)
 - tee testit funktio kerrallaan eli:
     - tee testit (yksi describe, jossa kaikki failaavat)
