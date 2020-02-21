@@ -8,7 +8,7 @@
 
 ### Asentaminen  
 - testi.js sijaitsee oletuskansiossa, josta jest etsii testejä
-- terminaalissa `'npm init -y'`  
+- terminaalissa `'npm init -y'`  ja `'npm install jest --save-dev'`
 - lisää package.json tiedostoon seuraava:  
  ```json
 "scripts": {
