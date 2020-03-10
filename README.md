@@ -1,4 +1,5 @@
-# Testing-Jest  
+# Testing-Jest 
+- tekijä: Mia Kauppila, joulukuu 2019
 
 ## **Javascipt testaus**
 - ohjelma, jolla haetaan erilaisia tietoja tietokoneista  
